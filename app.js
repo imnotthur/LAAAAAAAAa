@@ -21,7 +21,7 @@ function atualizarSaudacao() {
     if (hora >= 5 && hora < 12) {
         msgSaudacao = "Bom dia!";
         imgFundo = "url(bondia.jpg)";
-        imgIcone = "jaotarde.png";
+        imgIcone = "jaotarde.jpg";
         fraseDoMomento = frasesManha;
 
     } else if (hora >= 12 && hora < 18) {
